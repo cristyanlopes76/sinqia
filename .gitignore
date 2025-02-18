@@ -1,0 +1,9 @@
+*.res
+*.stat
+*.cfg
+*.dres
+*.tvsconfig
+*.~*
+*.res
+*.dproj.local
+*.identcache
